@@ -1,0 +1,25 @@
+
+public class Test {
+
+	/**
+	 * @param args
+	 */
+	
+	public void hello(){
+		
+		Integer a=new Integer(10);
+		String s=a.toString();
+		StringBuilder sb= new StringBuilder();
+		
+		System.out.println("hello");
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		Test t=new Test();
+		t.hello();
+		
+	}
+
+}

@@ -1,0 +1,15 @@
+!SESSION 2014-02-26 23:51:11.020 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data E:\project
+
+!ENTRY org.eclipse.emf.ecore 2 0 2014-02-26 23:51:25.482
+!MESSAGE Both 'org.apache.geronimo.deployment.model' and 'org.apache.geronimo.v11.deployment.model' register an extension parser for 'deployment'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2014-02-26 23:51:25.489
+!MESSAGE Both 'org.apache.geronimo.deployment.model' and 'org.apache.geronimo.v11.deployment.model' register an extension parser for 'naming'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2014-02-26 23:51:25.494
+!MESSAGE Both 'org.apache.geronimo.deployment.model' and 'org.apache.geronimo.v11.deployment.model' register an extension parser for 'web'
